@@ -1,0 +1,16 @@
+ .nilai_kosong {
+     background-color: #ffffff;
+ }
+
+ .nilai_baik {
+     background-color: #00B150;
+ }
+
+ .nilai_cukup {
+     background-color: #FFFE06;
+ }
+
+ .nilai_kurang {
+     background-color: #FC0100;
+     color: white;
+ }
